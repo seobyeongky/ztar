@@ -1,0 +1,20 @@
+using UnityEngine;
+
+public enum Poolables
+{
+	#Enums#
+}
+
+public class PoolableUtil
+{
+	public static string ToFileName(Poolables enu)
+	{
+		switch (enu)
+		{
+			#SpecialCases#
+
+			default :
+				return enu.ToString().ToLower();
+		}
+	}
+}
