@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: 7726f0373f6fd2c4489890fbaaafaf91
+timeCreated: 1491199794
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: grass_cliff_0
+    21300002: grass_cliff_1
+    21300004: grass_cliff_2
+    21300006: grass_cliff_3
+    21300008: grass_cliff_4
+    21300010: grass_cliff_5
+    21300012: grass_cliff_6
+    21300014: grass_cliff_7
+    21300016: grass_cliff_8
+    21300018: grass_cliff_9
+    21300020: grass_cliff_10
+    21300022: grass_cliff_11
+    21300024: grass_cliff_12
+    21300026: grass_cliff_13
+    21300028: grass_cliff_14
+    21300030: grass_cliff_15
+    21300032: grass_cliff_16
+    21300034: grass_cliff_17
+    21300036: grass_cliff_18
+    21300038: grass_cliff_19
+    21300040: grass_cliff_ca
+    21300042: grass_cliff_cb
+    21300044: grass_cliff_cc
+    21300046: grass_cliff_ci
+    21300048: grass_cliff_cj
+    21300050: grass_cliff_cd
+    21300052: grass_cliff_ce
+    21300054: grass_cliff_ck
+    21300056: grass_cliff_cl
+    21300058: grass_cliff_cf
+    21300060: grass_cliff_cg
+    21300062: grass_cliff_ch
+    21300064: grass_cliff_cp
+    21300066: grass_cliff_cq
+    21300068: grass_cliff_cr
+    21300070: grass_cliff_cm
+    21300072: grass_cliff_cn
+    21300074: grass_cliff_co
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 36
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grass_cliff_ca
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 9}
+        - {x: -4, y: 5}
+        - {x: -9, y: -2}
+        - {x: -9, y: -9}
+        - {x: 3, y: -9}
+        - {x: 9, y: -3}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: 9, y: 9}
+        - {x: 2, y: 9}
+        - {x: -3, y: 8}
+        - {x: -9, y: -2}
+        - {x: -9, y: -9}
+        - {x: -1, y: -9}
+        - {x: 2, y: -6}
+        - {x: 8, y: -1}
+        - {x: 9, y: 0}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_cb
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 54
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -3}
+        - {x: -5, y: -6}
+        - {x: 1, y: -6}
+        - {x: 9, y: -2}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: 0}
+        - {x: -7, y: -1}
+        - {x: 9, y: -1}
+        - {x: 9, y: 9}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_cc
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 54
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 9}
+        - {x: -9, y: 9}
+        - {x: -9, y: -3}
+        - {x: -6, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 3}
+        - {x: 8, y: 8}
+      - - {x: 6, y: 9}
+        - {x: 6, y: 3}
+        - {x: 8, y: 1}
+        - {x: 9, y: 1}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -1, y: 9}
+        - {x: -9, y: 9}
+        - {x: -9, y: -1}
+        - {x: -2, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: -4}
+        - {x: 5, y: 5}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_ci
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 54
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -3}
+        - {x: -5, y: -5}
+        - {x: 3, y: -5}
+        - {x: 4, y: -3}
+        - {x: 4, y: 5}
+        - {x: 2, y: 9}
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -1}
+        - {x: 0, y: -1}
+        - {x: 2, y: 2}
+        - {x: 2, y: 5}
+        - {x: 0, y: 9}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_cj
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 54
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -4, y: 5}
+        - {x: -4, y: -6}
+        - {x: 3, y: -6}
+        - {x: 9, y: -4}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: 0, y: 9}
+        - {x: 0, y: 5}
+        - {x: 5, y: -2}
+        - {x: 9, y: -1}
+        - {x: 9, y: 9}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_cd
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 3, y: -9}
+        - {x: 7, y: -6}
+        - {x: 7, y: 2}
+        - {x: 4, y: 9}
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 0, y: -9}
+        - {x: 1, y: -6}
+        - {x: 1, y: 9}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_ce
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 9}
+        - {x: -4, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: 0, y: 9}
+        - {x: -2, y: 7}
+        - {x: -2, y: -2}
+        - {x: 0, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_ck
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 36
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 6}
+        - {x: -4, y: 9}
+        - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: -5}
+        - {x: 5, y: 4}
+      physicsShape:
+      - - {x: -4, y: 0}
+        - {x: -9, y: 0}
+        - {x: -9, y: -9}
+        - {x: -1, y: -9}
+        - {x: 0, y: -8}
+        - {x: 0, y: -3}
+        - {x: -1, y: -1}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_cl
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 5}
+        - {x: -9, y: -1}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 5}
+      physicsShape:
+      - - {x: 3, y: 1}
+        - {x: -1, y: -3}
+        - {x: -1, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 0}
+        - {x: 8, y: 1}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_cf
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 9}
+        - {x: -9, y: 9}
+        - {x: -9, y: -4}
+        - {x: -5, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 4}
+        - {x: 7, y: 7}
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -3}
+        - {x: -7, y: -6}
+        - {x: -4, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 0}
+        - {x: -2, y: 9}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_cg
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8}
+        - {x: -9, y: 2}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 3}
+        - {x: 6, y: 8}
+      physicsShape:
+      - - {x: -9, y: 0}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 0}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_ch
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -9, y: 3}
+        - {x: -9, y: -9}
+        - {x: 6, y: -9}
+        - {x: 9, y: -5}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -1, y: 9}
+        - {x: -9, y: -1}
+        - {x: -9, y: -9}
+        - {x: 5, y: -9}
+        - {x: 9, y: -4}
+        - {x: 9, y: 9}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_cp
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 18
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -1}
+        - {x: -6, y: 0}
+        - {x: -3, y: -4}
+        - {x: 6, y: -7}
+        - {x: 9, y: -7}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: 7}
+        - {x: -6, y: 5}
+        - {x: 6, y: -1}
+        - {x: 9, y: -1}
+        - {x: 9, y: 9}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_cq
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 18
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -7}
+        - {x: 3, y: -7}
+        - {x: 9, y: -6}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -1}
+        - {x: 1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 9, y: -1}
+        - {x: 9, y: 9}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_cr
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 9}
+        - {x: -9, y: 9}
+        - {x: -9, y: -3}
+        - {x: 3, y: -3}
+        - {x: 4, y: -1}
+        - {x: 4, y: 1}
+        - {x: 9, y: 7}
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -1}
+        - {x: -6, y: 0}
+        - {x: -2, y: 2}
+        - {x: 9, y: 7}
+        - {x: 9, y: 9}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_cm
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 9}
+        - {x: -7, y: 7}
+        - {x: -7, y: -2}
+        - {x: -5, y: -3}
+        - {x: 7, y: -3}
+        - {x: 9, y: 0}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -6, y: 4}
+        - {x: -4, y: 2}
+        - {x: -1, y: 3}
+        - {x: -1, y: 6}
+        - {x: -3, y: 8}
+        - {x: -6, y: 7}
+      - - {x: -1, y: 9}
+        - {x: -1, y: 4}
+        - {x: 0, y: 2}
+        - {x: 7, y: 2}
+        - {x: 9, y: 3}
+        - {x: 9, y: 9}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_cn
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: 1}
+        - {x: -5, y: -3}
+        - {x: 6, y: -3}
+        - {x: 9, y: -1}
+        - {x: 9, y: 9}
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: 3}
+        - {x: 9, y: 3}
+        - {x: 9, y: 9}
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: grass_cliff_co
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 9}
+        - {x: -9, y: 2}
+        - {x: -6, y: -3}
+        - {x: 1, y: -3}
+        - {x: 5, y: -1}
+        - {x: 5, y: 8}
+        - {x: 3, y: 9}
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: 4}
+        - {x: -4, y: 5}
+        - {x: 0, y: 8}
+        - {x: 0, y: 9}
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: tile
+  assetBundleName: 
+  assetBundleVariant: 
